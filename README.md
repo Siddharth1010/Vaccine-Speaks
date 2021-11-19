@@ -1,12 +1,20 @@
 # Vaccine-Speaks
 
-Vacine Speaks presents a general overview of how people in different regions of the same country are satisfied or dissatisfied with COVID-19 vaccines. Our portal will depict among India and America, the impact of the vaccine and provide an idea about what the people in that area think about the it in four categories - POSITIVE, NEGATIVE, MIXED and NEUTRAL. This classification is done by extracting Twitter data with its latitude and longitude.
+## Objective
 
-## Tech
+Vacine Speaks presents a general overview of how people in different regions of the same country are satisfied or dissatisfied with COVID-19 vaccines. This portal will depict the impact of the vaccine, regionally, across the United States and the Indian subcontinent. It will provide an idea of what people in particular areas think about the vaccine through four categories - POSITIVE, NEGATIVE, MIXED and NEUTRAL. This classification is done by extracting Twitter data with its latitude and longitude.
 
-We have created this project using Python, NLTK for sentiment analysis and React JS for the frontend. 
+## Tech Stack & Tools
 
-## Screenshots
+<ul>
+  <li> Python
+    <li> NLTK
+      <li> ReactJS
+        <li> AWS
+          <li> Twitter API
+            </ul>
+
+## Interface
 
 ### India 
 ![Vaccine Speaks in India](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/416/555/datas/gallery.jpg)

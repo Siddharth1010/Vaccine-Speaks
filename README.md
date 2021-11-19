@@ -17,7 +17,13 @@ Vacine Speaks presents a general overview of how people in different regions of 
 ## Interface
 
 ### India 
-![Vaccine Speaks in India](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/416/555/datas/gallery.jpg)
+
+<p align="center">
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/416/555/datas/gallery.jpg" />
+</p>
 
 ### United States of America
-![Vaccine Speaks in America](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/416/563/datas/gallery.jpg)
+
+<p align="center">
+  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/416/563/datas/gallery.jpg" />
+</p>
